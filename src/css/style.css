@@ -1,4 +1,18 @@
 .navbar-brand {
   width: 100px;
   padding: 0;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+p.about-main-text {
+  color: rgba(255, 255, 255, 0.0666666667);
+}
+
+.img-slide {
+  background-size: cover;
+  width: 100%;
+  max-height: 200px;
 }/*# sourceMappingURL=style.css.map */
